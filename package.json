@@ -2,6 +2,7 @@
   "name": "intellectra",
   "version": "1.0.0",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,9 +11,14 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "axios": "^1.9.0",
+    "dotenv": "^16.5.0",
     "ejs": "^3.1.10",
     "ejs-mate": "^4.0.0",
+    "env": "^0.0.2",
     "express": "^5.1.0",
     "mongoose": "^8.14.1"
+    
   }
+  
 }
