@@ -15,7 +15,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 
-const filePath = path.join(__dirname, 'gradeSchoolMath.jsonl');
+const filePath = path.join(__dirname, 'basicMath.json');
 
 
 function cleanAnswer(raw) {
@@ -24,24 +24,22 @@ function cleanAnswer(raw) {
 
 
 async function seedProblems() {
-  const fileStream = fs.createReadStream(filePath);
-  const rl = readline.createInterface({
-    input: fileStream,
-    crlfDelay: Infinity
-  });
-
-  for await (const line of rl) {
     try {
-      const problem = JSON.parse(line);
-      problem.answer = cleanAnswer(problem.answer); 
-      await Problem.create(problem);
+      const data = fs.readFileSync(filePath, 'utf-8');
+      const problems = JSON.parse(data); // now an array
+  
+      for (const problem of problems) {
+        problem.answer = cleanAnswer(problem.answer);
+        await Problem.create(problem);
+      }
+  
+      console.log('Seeding complete!');
     } catch (err) {
-      console.error('Error parsing/inserting line:', line, err.message);
+      console.error('Seeding error:', err.message);
+    } finally {
+      mongoose.connection.close();
     }
   }
-
-  console.log('Seeding complete!');
-  mongoose.connection.close();
-}
+  
 
 seedProblems();

@@ -1,0 +1,6002 @@
+[
+  {
+    "question": "What is 137 - 19?",
+    "answer": "118",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 8x + 3 = 59",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 + 31?",
+    "answer": "50",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/5 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 1/3 to decimal",
+    "answer": "0.33",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/5 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 \u00d7 3?",
+    "answer": "60",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 7/10 to decimal",
+    "answer": "0.7",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 63% of 206?",
+    "answer": "129.78",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20 \u00f7 10?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 17?",
+    "answer": "153",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 16 = 34",
+    "answer": "3",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 \u00d7 15?",
+    "answer": "30",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/8 to decimal",
+    "answer": "0.5",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 5x + 5 = 40",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/6 to decimal",
+    "answer": "0.17",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 5/6 to decimal",
+    "answer": "0.83",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 100 - 28?",
+    "answer": "72",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 50 \u00f7 10?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 59 + 88?",
+    "answer": "147",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 22% of 843?",
+    "answer": "185.46",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 11 = 39",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 \u00f7 2?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00f7 2?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 10 = 59",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 147 - 34?",
+    "answer": "113",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/8 to decimal",
+    "answer": "0.12",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 17 = 27",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 68 - 2?",
+    "answer": "66",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 3/5 to decimal",
+    "answer": "0.6",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 3x + 10 = 22",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 + 62?",
+    "answer": "77",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 1/9 to decimal",
+    "answer": "0.11",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 \u00d7 20?",
+    "answer": "100",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 19 = 100",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00d7 14?",
+    "answer": "42",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20 + 40?",
+    "answer": "60",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 3/7 to decimal",
+    "answer": "0.43",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 17 + 19?",
+    "answer": "36",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 42 \u00f7 7?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 51 + 65?",
+    "answer": "116",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 5 = 20",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 8x + 5 = 53",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00d7 10?",
+    "answer": "60",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/3 to decimal",
+    "answer": "0.67",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 85% of 490?",
+    "answer": "416.5",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00f7 2?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40% of 453?",
+    "answer": "181.2",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 46 + 45?",
+    "answer": "91",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 \u00d7 20?",
+    "answer": "400",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 73 + 100?",
+    "answer": "173",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 \u00d7 20?",
+    "answer": "180",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 \u00d7 14?",
+    "answer": "70",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 115 - 16?",
+    "answer": "99",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 \u00d7 11?",
+    "answer": "110",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48 \u00f7 8?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 11 \u00d7 7?",
+    "answer": "77",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 91% of 561?",
+    "answer": "510.51",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 20 = 83",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 65 - 19?",
+    "answer": "46",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 13% of 444?",
+    "answer": "57.72",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 100 - 40?",
+    "answer": "60",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 6x + 17 = 53",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 + 79?",
+    "answer": "81",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 \u00d7 5?",
+    "answer": "40",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 9 = 41",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 82% of 549?",
+    "answer": "450.18",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 125 - 49?",
+    "answer": "76",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 5 = 54",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 69 - 33?",
+    "answer": "36",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00d7 19?",
+    "answer": "152",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 103 - 7?",
+    "answer": "96",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 119 - 11?",
+    "answer": "108",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4% of 835?",
+    "answer": "33.4",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 5 = 47",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/4 to decimal",
+    "answer": "0.25",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 28 \u00f7 4?",
+    "answer": "7.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 46% of 824?",
+    "answer": "379.04",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 19 = 37",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00f7 4?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 146 - 31?",
+    "answer": "115",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 6/7 to decimal",
+    "answer": "0.86",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 30 \u00f7 5?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 8x + 20 = 60",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24 + 86?",
+    "answer": "110",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 123 - 46?",
+    "answer": "77",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 \u00d7 19?",
+    "answer": "76",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 72% of 422?",
+    "answer": "303.84",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 115 - 38?",
+    "answer": "77",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 \u00d7 20?",
+    "answer": "180",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 43 + 27?",
+    "answer": "70",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 32 \u00f7 4?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 1 \u00d7 7?",
+    "answer": "7",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/6 to decimal",
+    "answer": "0.67",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 52 - 18?",
+    "answer": "34",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 + 26?",
+    "answer": "34",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 5x + 15 = 25",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 126 - 10?",
+    "answer": "116",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 129 - 42?",
+    "answer": "87",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 3/9 to decimal",
+    "answer": "0.33",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 82% of 107?",
+    "answer": "87.74",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 89 + 18?",
+    "answer": "107",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 4x + 14 = 54",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 16 + 5?",
+    "answer": "21",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 17 \u00d7 13?",
+    "answer": "221",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/10 to decimal",
+    "answer": "0.6",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 73% of 123?",
+    "answer": "89.79",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 52% of 704?",
+    "answer": "366.08",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 23% of 612?",
+    "answer": "140.76",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 64 + 58?",
+    "answer": "122",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 5/6 to decimal",
+    "answer": "0.83",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 21 + 19?",
+    "answer": "40",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 96 + 54?",
+    "answer": "150",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 1 \u00d7 13?",
+    "answer": "13",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00f7 3?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 7/8 to decimal",
+    "answer": "0.88",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 71% of 572?",
+    "answer": "406.12",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 15 = 69",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 5/6 to decimal",
+    "answer": "0.83",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 24 \u00f7 3?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 44 + 25?",
+    "answer": "69",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 69 + 37?",
+    "answer": "106",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 4x + 7 = 27",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 47 + 97?",
+    "answer": "144",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 60 \u00f7 6?",
+    "answer": "10.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/9 to decimal",
+    "answer": "0.44",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 48 \u00f7 8?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 150 - 47?",
+    "answer": "103",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 25 + 44?",
+    "answer": "69",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2% of 633?",
+    "answer": "12.66",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 113 - 48?",
+    "answer": "65",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 43% of 415?",
+    "answer": "178.45",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00f7 3?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 19 = 59",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 59% of 829?",
+    "answer": "489.11",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 8x + 6 = 54",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 133 - 24?",
+    "answer": "109",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 93% of 861?",
+    "answer": "800.73",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 81% of 548?",
+    "answer": "443.88",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 + 40?",
+    "answer": "47",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 4/10 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 77% of 108?",
+    "answer": "83.16",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 55 - 15?",
+    "answer": "40",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 63 \u00f7 7?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 86 - 2?",
+    "answer": "84",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 37 + 35?",
+    "answer": "72",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 3x + 20 = 29",
+    "answer": "3",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00d7 19?",
+    "answer": "57",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 11 \u00d7 17?",
+    "answer": "187",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 98% of 859?",
+    "answer": "841.82",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 114 - 26?",
+    "answer": "88",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 29% of 291?",
+    "answer": "84.39",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 8x + 5 = 21",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 42 + 25?",
+    "answer": "67",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 7/9 to decimal",
+    "answer": "0.78",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 111 - 35?",
+    "answer": "76",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 84 - 11?",
+    "answer": "73",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 148 - 7?",
+    "answer": "141",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 33% of 542?",
+    "answer": "178.86",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 1x + 3 = 4",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 64 + 21?",
+    "answer": "85",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 90 + 46?",
+    "answer": "136",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 \u00f7 4?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00d7 12?",
+    "answer": "72",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 76% of 898?",
+    "answer": "682.48",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 39 + 53?",
+    "answer": "92",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00d7 7?",
+    "answer": "42",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 + 43?",
+    "answer": "57",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 1% of 515?",
+    "answer": "5.15",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 10x + 8 = 98",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 8 = 28",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 11 = 27",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00f7 1?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00d7 16?",
+    "answer": "192",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 19 = 49",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 1 = 16",
+    "answer": "3",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 \u00d7 9?",
+    "answer": "45",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00d7 8?",
+    "answer": "64",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 61 - 32?",
+    "answer": "29",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 \u00f7 1?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 17 = 44",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 10x + 17 = 87",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 36 \u00f7 6?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/9 to decimal",
+    "answer": "0.67",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 100% of 521?",
+    "answer": "521.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/4 to decimal",
+    "answer": "0.25",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40 \u00f7 5?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00f7 2?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 57% of 421?",
+    "answer": "239.97",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24 \u00f7 6?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/7 to decimal",
+    "answer": "0.57",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 40 \u00f7 10?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 5 = 14",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 18 \u00d7 20?",
+    "answer": "360",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 59 - 13?",
+    "answer": "46",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 7 \u00d7 13?",
+    "answer": "91",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 3/5 to decimal",
+    "answer": "0.6",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 78% of 988?",
+    "answer": "770.64",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 68 + 61?",
+    "answer": "129",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 75 + 81?",
+    "answer": "156",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 23 + 59?",
+    "answer": "82",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 9x + 6 = 15",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 + 72?",
+    "answer": "86",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 + 31?",
+    "answer": "47",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 97 + 88?",
+    "answer": "185",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 10x + 8 = 78",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34 + 27?",
+    "answer": "61",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 12% of 269?",
+    "answer": "32.28",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/8 to decimal",
+    "answer": "0.5",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 + 34?",
+    "answer": "50",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 6x + 20 = 44",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00d7 14?",
+    "answer": "196",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 20 = 62",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24% of 447?",
+    "answer": "107.28",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 15 \u00d7 15?",
+    "answer": "225",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 1x + 6 = 11",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 45 + 73?",
+    "answer": "118",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 41 + 3?",
+    "answer": "44",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 4x + 17 = 25",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 16 = 22",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 88 - 29?",
+    "answer": "59",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 18 \u00f7 3?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 93 + 15?",
+    "answer": "108",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 8x + 12 = 76",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 13 \u00d7 10?",
+    "answer": "130",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 57 - 7?",
+    "answer": "50",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 82% of 392?",
+    "answer": "321.44",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 77 + 12?",
+    "answer": "89",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 \u00d7 5?",
+    "answer": "40",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 17% of 445?",
+    "answer": "75.65",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 137 - 34?",
+    "answer": "103",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 3/4 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 3/9 to decimal",
+    "answer": "0.33",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 88 - 6?",
+    "answer": "82",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 51% of 953?",
+    "answer": "486.03",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 12 = 54",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 21 + 3?",
+    "answer": "24",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 63 \u00f7 7?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10% of 500?",
+    "answer": "50.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 10x + 11 = 21",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00d7 12?",
+    "answer": "84",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 80 \u00f7 8?",
+    "answer": "10.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 \u00d7 5?",
+    "answer": "50",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 12 \u00f7 6?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 50 \u00f7 10?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/7 to decimal",
+    "answer": "0.57",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 3x + 19 = 43",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00d7 2?",
+    "answer": "16",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 73 + 27?",
+    "answer": "100",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 7% of 169?",
+    "answer": "11.83",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 4 = 53",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 36% of 803?",
+    "answer": "289.08",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 82 + 86?",
+    "answer": "168",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 33 + 52?",
+    "answer": "85",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 14 \u00d7 1?",
+    "answer": "14",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00f7 2?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 30 \u00f7 10?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 54 - 48?",
+    "answer": "6",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 38% of 241?",
+    "answer": "91.58",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 9x + 8 = 89",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48 \u00f7 6?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 11 \u00d7 10?",
+    "answer": "110",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 11 = 29",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 7/9 to decimal",
+    "answer": "0.78",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 30 + 86?",
+    "answer": "116",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/6 to decimal",
+    "answer": "0.33",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 65 + 44?",
+    "answer": "109",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 16 = 22",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 14 = 44",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 99% of 629?",
+    "answer": "622.71",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 7/8 to decimal",
+    "answer": "0.88",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/3 to decimal",
+    "answer": "0.67",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 48 + 92?",
+    "answer": "140",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 7x + 2 = 37",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 69 - 18?",
+    "answer": "51",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/7 to decimal",
+    "answer": "0.14",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 15 \u00d7 5?",
+    "answer": "75",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 101 - 27?",
+    "answer": "74",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 29 + 57?",
+    "answer": "86",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 + 56?",
+    "answer": "64",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 19 \u00d7 20?",
+    "answer": "380",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 37 + 70?",
+    "answer": "107",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00d7 14?",
+    "answer": "84",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 94 - 6?",
+    "answer": "88",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00d7 11?",
+    "answer": "66",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 75% of 844?",
+    "answer": "633.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 74 + 15?",
+    "answer": "89",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 79 - 36?",
+    "answer": "43",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 16 = 18",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 75 - 31?",
+    "answer": "44",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 \u00f7 1?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 53 + 5?",
+    "answer": "58",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 \u00d7 15?",
+    "answer": "30",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 1x + 10 = 16",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/2 to decimal",
+    "answer": "0.5",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 \u00d7 2?",
+    "answer": "40",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 31 + 41?",
+    "answer": "72",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 \u00f7 2?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 21% of 183?",
+    "answer": "38.43",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 20 = 68",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 32 + 11?",
+    "answer": "43",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 10x + 4 = 104",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 2 = 38",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00f7 3?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00d7 10?",
+    "answer": "80",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 90 + 17?",
+    "answer": "107",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 19 \u00d7 12?",
+    "answer": "228",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 6 = 51",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 9?",
+    "answer": "81",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 87 + 81?",
+    "answer": "168",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 48 + 68?",
+    "answer": "116",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/10 to decimal",
+    "answer": "0.1",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 117 - 31?",
+    "answer": "86",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 \u00d7 11?",
+    "answer": "22",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 119 - 23?",
+    "answer": "96",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 72 - 2?",
+    "answer": "70",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 99 + 60?",
+    "answer": "159",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/5 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9% of 601?",
+    "answer": "54.09",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 60 \u00f7 10?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48 + 84?",
+    "answer": "132",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 + 37?",
+    "answer": "42",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 19 \u00d7 17?",
+    "answer": "323",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9% of 742?",
+    "answer": "66.78",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 113 - 43?",
+    "answer": "70",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 82 + 91?",
+    "answer": "173",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/4 to decimal",
+    "answer": "0.5",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 30 \u00f7 6?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 56 - 8?",
+    "answer": "48",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 24 \u00f7 8?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 64 \u00f7 8?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 50 + 68?",
+    "answer": "118",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00f7 4?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 11 = 39",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 8x + 3 = 51",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 29% of 463?",
+    "answer": "134.27",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/7 to decimal",
+    "answer": "0.29",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 42 \u00f7 7?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 \u00f7 1?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 72 - 39?",
+    "answer": "33",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 55 + 82?",
+    "answer": "137",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 3 = 13",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 17 \u00d7 18?",
+    "answer": "306",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 137 - 3?",
+    "answer": "134",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 41 + 15?",
+    "answer": "56",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 35 \u00f7 7?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 60 - 21?",
+    "answer": "39",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 102 - 42?",
+    "answer": "60",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 28 \u00f7 7?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 46 + 100?",
+    "answer": "146",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 \u00d7 12?",
+    "answer": "48",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 \u00d7 5?",
+    "answer": "25",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 35 + 80?",
+    "answer": "115",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 79 + 12?",
+    "answer": "91",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00f7 1?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 18 \u00d7 17?",
+    "answer": "306",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 25% of 310?",
+    "answer": "77.5",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 93% of 804?",
+    "answer": "747.72",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 39% of 101?",
+    "answer": "39.39",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 3/7 to decimal",
+    "answer": "0.43",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 26% of 512?",
+    "answer": "133.12",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 30 \u00f7 6?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00d7 18?",
+    "answer": "216",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/10 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 80 \u00f7 10?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 45 \u00f7 9?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 \u00f7 5?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 70 \u00f7 7?",
+    "answer": "10.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00d7 8?",
+    "answer": "112",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 17 = 41",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 \u00d7 16?",
+    "answer": "160",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 7 = 31",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 98 + 22?",
+    "answer": "120",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 85 - 44?",
+    "answer": "41",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 77 + 26?",
+    "answer": "103",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 \u00d7 5?",
+    "answer": "40",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 127 - 12?",
+    "answer": "115",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00f7 2?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 1 \u00d7 6?",
+    "answer": "6",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 19 = 64",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 80 + 40?",
+    "answer": "120",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 \u00d7 8?",
+    "answer": "40",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 93 - 33?",
+    "answer": "60",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 84% of 827?",
+    "answer": "694.68",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00d7 19?",
+    "answer": "266",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 \u00d7 9?",
+    "answer": "36",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 + 14?",
+    "answer": "20",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 11% of 57?",
+    "answer": "6.27",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 21% of 80?",
+    "answer": "16.8",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24 \u00f7 6?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 15 \u00d7 16?",
+    "answer": "240",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 16 = 61",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 18 \u00d7 8?",
+    "answer": "144",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 89 + 93?",
+    "answer": "182",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 3x + 11 = 38",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 42% of 327?",
+    "answer": "137.34",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34% of 616?",
+    "answer": "209.44",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 2 = 5",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 78% of 721?",
+    "answer": "562.38",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48 + 12?",
+    "answer": "60",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 \u00f7 10?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 57% of 754?",
+    "answer": "429.78",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/10 to decimal",
+    "answer": "0.2",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 40 \u00f7 5?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 17 \u00d7 20?",
+    "answer": "340",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 18?",
+    "answer": "162",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 135 - 18?",
+    "answer": "117",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 69 - 30?",
+    "answer": "39",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 18 \u00d7 9?",
+    "answer": "162",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 22 + 57?",
+    "answer": "79",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 65 + 4?",
+    "answer": "69",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 39% of 732?",
+    "answer": "285.48",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 121 - 17?",
+    "answer": "104",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 \u00f7 4?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 30 + 49?",
+    "answer": "79",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 13 \u00d7 12?",
+    "answer": "156",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 110 - 8?",
+    "answer": "102",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 15 \u00f7 5?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 62 - 36?",
+    "answer": "26",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00f7 6?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 \u00f7 3?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00d7 13?",
+    "answer": "156",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 1 = 37",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 4 = 74",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 71 + 17?",
+    "answer": "88",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 \u00d7 6?",
+    "answer": "54",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 50% of 541?",
+    "answer": "270.5",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00f7 7?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 26% of 694?",
+    "answer": "180.44",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00d7 6?",
+    "answer": "72",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 \u00f7 3?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/10 to decimal",
+    "answer": "0.6",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 98% of 320?",
+    "answer": "313.6",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 1x + 6 = 10",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 42% of 403?",
+    "answer": "169.26",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 84 - 30?",
+    "answer": "54",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 + 53?",
+    "answer": "73",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 12 \u00d7 11?",
+    "answer": "132",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 17 = 23",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 97% of 543?",
+    "answer": "526.71",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3% of 300?",
+    "answer": "9.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/10 to decimal",
+    "answer": "0.1",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 17% of 391?",
+    "answer": "66.47",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 58% of 335?",
+    "answer": "194.3",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 35 + 19?",
+    "answer": "54",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 \u00d7 20?",
+    "answer": "40",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20 \u00f7 10?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00f7 6?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 + 45?",
+    "answer": "50",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 5x + 9 = 49",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 54 - 16?",
+    "answer": "38",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 83 + 89?",
+    "answer": "172",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 17 \u00d7 18?",
+    "answer": "306",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 129 - 19?",
+    "answer": "110",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 17 \u00d7 4?",
+    "answer": "68",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/10 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 51 - 4?",
+    "answer": "47",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 14 = 23",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 15 = 45",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 97 + 54?",
+    "answer": "151",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 68% of 599?",
+    "answer": "407.32",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 91 - 13?",
+    "answer": "78",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 85% of 220?",
+    "answer": "187.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 77 - 21?",
+    "answer": "56",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 83 + 57?",
+    "answer": "140",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 11 + 56?",
+    "answer": "67",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 85 + 6?",
+    "answer": "91",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 7/9 to decimal",
+    "answer": "0.78",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 29 + 44?",
+    "answer": "73",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 \u00d7 15?",
+    "answer": "150",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/6 to decimal",
+    "answer": "0.33",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 17 = 18",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 70 \u00f7 7?",
+    "answer": "10.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 + 41?",
+    "answer": "45",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 11 + 38?",
+    "answer": "49",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 81 \u00f7 9?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 86 - 37?",
+    "answer": "49",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 3 = 48",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20 \u00f7 4?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 100 - 9?",
+    "answer": "91",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 12 \u00d7 10?",
+    "answer": "120",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 51 - 6?",
+    "answer": "45",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 \u00f7 8?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 90 \u00f7 10?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 58% of 756?",
+    "answer": "438.48",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 10 = 19",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 9 = 44",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 74 - 30?",
+    "answer": "44",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 75 - 36?",
+    "answer": "39",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 65% of 677?",
+    "answer": "440.05",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 63 \u00f7 7?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 121 - 3?",
+    "answer": "118",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 85 - 43?",
+    "answer": "42",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 83% of 787?",
+    "answer": "653.21",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 52 + 28?",
+    "answer": "80",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 3x + 10 = 31",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5% of 75?",
+    "answer": "3.75",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 2x + 12 = 20",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 + 64?",
+    "answer": "76",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 \u00d7 12?",
+    "answer": "36",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 78 + 4?",
+    "answer": "82",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 62 - 2?",
+    "answer": "60",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 104 - 8?",
+    "answer": "96",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 13 + 45?",
+    "answer": "58",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 \u00d7 20?",
+    "answer": "100",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 78% of 584?",
+    "answer": "455.52",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/9 to decimal",
+    "answer": "0.67",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 97 - 18?",
+    "answer": "79",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 \u00d7 10?",
+    "answer": "160",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 5/9 to decimal",
+    "answer": "0.56",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 78 - 6?",
+    "answer": "72",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4% of 921?",
+    "answer": "36.84",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 36 \u00f7 6?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40 \u00f7 4?",
+    "answer": "10.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 8x + 14 = 62",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 17 \u00d7 7?",
+    "answer": "119",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 72 \u00f7 9?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00f7 6?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 47 + 42?",
+    "answer": "89",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 88 + 73?",
+    "answer": "161",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 88 - 11?",
+    "answer": "77",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 5/6 to decimal",
+    "answer": "0.83",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 4x + 3 = 15",
+    "answer": "3",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 \u00f7 1?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 2 = 10",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 65% of 50?",
+    "answer": "32.5",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 59 - 1?",
+    "answer": "58",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 29% of 617?",
+    "answer": "178.93",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 74 + 3?",
+    "answer": "77",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 53 - 1?",
+    "answer": "52",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 25% of 446?",
+    "answer": "111.5",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/5 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 10 = 70",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 88% of 652?",
+    "answer": "573.76",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 85% of 851?",
+    "answer": "723.35",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10% of 854?",
+    "answer": "85.4",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19% of 340?",
+    "answer": "64.6",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 \u00d7 5?",
+    "answer": "95",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40 \u00f7 8?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00f7 1?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 81 \u00f7 9?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 112 - 2?",
+    "answer": "110",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 87 - 49?",
+    "answer": "38",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 7/8 to decimal",
+    "answer": "0.88",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 19 + 29?",
+    "answer": "48",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 74 - 25?",
+    "answer": "49",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 24 \u00f7 4?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 146 - 33?",
+    "answer": "113",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 13 \u00d7 1?",
+    "answer": "13",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/7 to decimal",
+    "answer": "0.29",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 9x + 1 = 19",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34% of 216?",
+    "answer": "73.44",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00d7 19?",
+    "answer": "57",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 45 + 53?",
+    "answer": "98",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 5/9 to decimal",
+    "answer": "0.56",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 46% of 431?",
+    "answer": "198.26",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 35 \u00f7 7?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 \u00f7 2?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 \u00f7 1?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 100 + 53?",
+    "answer": "153",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 28 + 92?",
+    "answer": "120",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 134 - 4?",
+    "answer": "130",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 77% of 356?",
+    "answer": "274.12",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34% of 248?",
+    "answer": "84.32",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 18 \u00d7 15?",
+    "answer": "270",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 50 + 14?",
+    "answer": "64",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 5/6 to decimal",
+    "answer": "0.83",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 99 + 83?",
+    "answer": "182",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 5x + 19 = 64",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 22 + 33?",
+    "answer": "55",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 18 \u00f7 3?",
+    "answer": "6.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 13 \u00d7 16?",
+    "answer": "208",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48 \u00f7 6?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 17?",
+    "answer": "153",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 54 \u00f7 6?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8% of 476?",
+    "answer": "38.08",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 100 + 100?",
+    "answer": "200",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 58 - 16?",
+    "answer": "42",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 22 + 73?",
+    "answer": "95",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 6x + 19 = 61",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 7 = 23",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48% of 877?",
+    "answer": "420.96",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 8x + 4 = 52",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 53 + 25?",
+    "answer": "78",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 24 \u00f7 3?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00d7 8?",
+    "answer": "64",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 2 = 52",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 + 55?",
+    "answer": "74",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 4x + 17 = 25",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 \u00d7 7?",
+    "answer": "133",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00d7 1?",
+    "answer": "3",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 35 + 75?",
+    "answer": "110",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 37 + 5?",
+    "answer": "42",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 7/10 to decimal",
+    "answer": "0.7",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/10 to decimal",
+    "answer": "0.2",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 85% of 914?",
+    "answer": "776.9",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 17% of 344?",
+    "answer": "58.48",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 90% of 120?",
+    "answer": "108.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 18 \u00f7 6?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2% of 165?",
+    "answer": "3.3",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 114 - 22?",
+    "answer": "92",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 7x + 5 = 12",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 \u00d7 3?",
+    "answer": "18",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 5x + 20 = 70",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 35 \u00f7 7?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00d7 5?",
+    "answer": "35",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 115 - 5?",
+    "answer": "110",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 111 - 14?",
+    "answer": "97",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 15 = 24",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 63 \u00f7 9?",
+    "answer": "7.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00d7 4?",
+    "answer": "12",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 + 68?",
+    "answer": "71",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00f7 6?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 13 \u00d7 19?",
+    "answer": "247",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 98 - 15?",
+    "answer": "83",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 44% of 521?",
+    "answer": "229.24",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 10 = 16",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 25 + 5?",
+    "answer": "30",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 7/9 to decimal",
+    "answer": "0.78",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 74 + 23?",
+    "answer": "97",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 1 \u00d7 2?",
+    "answer": "2",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 12 \u00d7 7?",
+    "answer": "84",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24 + 13?",
+    "answer": "37",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 \u00f7 1?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 127 - 2?",
+    "answer": "125",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 72% of 487?",
+    "answer": "350.64",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24 \u00f7 3?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 30 + 89?",
+    "answer": "119",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 7x + 1 = 64",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 2x + 19 = 39",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/8 to decimal",
+    "answer": "0.25",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 76 + 33?",
+    "answer": "109",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 \u00f7 1?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 71% of 824?",
+    "answer": "585.04",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 20 \u00d7 15?",
+    "answer": "300",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 16 = 28",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 9?",
+    "answer": "81",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 \u00d7 2?",
+    "answer": "8",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48% of 267?",
+    "answer": "128.16",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34 + 91?",
+    "answer": "125",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 82 - 29?",
+    "answer": "53",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 21% of 640?",
+    "answer": "134.4",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 \u00d7 13?",
+    "answer": "195",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 58 + 41?",
+    "answer": "99",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00d7 3?",
+    "answer": "42",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 73 + 73?",
+    "answer": "146",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 1 + 22?",
+    "answer": "23",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 69 - 16?",
+    "answer": "53",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 \u00f7 4?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 138 - 48?",
+    "answer": "90",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 56 \u00f7 8?",
+    "answer": "7.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 69 + 96?",
+    "answer": "165",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 94 - 27?",
+    "answer": "67",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 70% of 544?",
+    "answer": "380.8",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 139 - 9?",
+    "answer": "130",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 \u00d7 18?",
+    "answer": "90",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 60% of 367?",
+    "answer": "220.2",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 + 71?",
+    "answer": "90",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 71% of 286?",
+    "answer": "203.06",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 90 - 3?",
+    "answer": "87",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00f7 7?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00f7 1?",
+    "answer": "7.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 + 83?",
+    "answer": "91",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 84 + 19?",
+    "answer": "103",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 123 - 1?",
+    "answer": "122",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 36 + 42?",
+    "answer": "78",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 17% of 788?",
+    "answer": "133.96",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 81 + 89?",
+    "answer": "170",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 62 + 84?",
+    "answer": "146",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 1 \u00d7 18?",
+    "answer": "18",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 \u00f7 2?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 + 9?",
+    "answer": "16",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 88 - 32?",
+    "answer": "56",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 123 - 25?",
+    "answer": "98",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 \u00f7 5?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 8 = 29",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40 \u00f7 8?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7% of 566?",
+    "answer": "39.62",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 22% of 396?",
+    "answer": "87.12",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 10?",
+    "answer": "90",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/9 to decimal",
+    "answer": "0.44",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 74% of 280?",
+    "answer": "207.2",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 45 + 33?",
+    "answer": "78",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 85 - 12?",
+    "answer": "73",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 96% of 524?",
+    "answer": "503.04",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 \u00d7 8?",
+    "answer": "64",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 23 + 5?",
+    "answer": "28",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 1x + 5 = 15",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/6 to decimal",
+    "answer": "0.17",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 53 + 21?",
+    "answer": "74",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 6x + 13 = 67",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 53% of 94?",
+    "answer": "49.82",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/8 to decimal",
+    "answer": "0.75",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 9x + 7 = 34",
+    "answer": "3",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/9 to decimal",
+    "answer": "0.11",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 106 - 32?",
+    "answer": "74",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 39 + 33?",
+    "answer": "72",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 143 - 41?",
+    "answer": "102",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 19 \u00d7 19?",
+    "answer": "361",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 62 - 48?",
+    "answer": "14",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 6x + 3 = 9",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 7x + 20 = 34",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 \u00d7 3?",
+    "answer": "12",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 16 \u00d7 4?",
+    "answer": "64",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 4x + 10 = 50",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/8 to decimal",
+    "answer": "0.12",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 95% of 78?",
+    "answer": "74.1",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 \u00d7 2?",
+    "answer": "30",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 10 = 13",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 72 \u00f7 9?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00d7 6?",
+    "answer": "84",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/5 to decimal",
+    "answer": "0.2",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 13% of 130?",
+    "answer": "16.9",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 1 \u00d7 16?",
+    "answer": "16",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 6 = 27",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/10 to decimal",
+    "answer": "0.8",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/3 to decimal",
+    "answer": "0.67",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 2x + 19 = 31",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 71% of 915?",
+    "answer": "649.65",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00d7 8?",
+    "answer": "112",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 42 + 9?",
+    "answer": "51",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 \u00d7 3?",
+    "answer": "30",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 17 = 71",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 21 + 73?",
+    "answer": "94",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 29% of 970?",
+    "answer": "281.3",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 49 + 65?",
+    "answer": "114",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 10x + 20 = 40",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 136 - 26?",
+    "answer": "110",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 15 \u00d7 20?",
+    "answer": "300",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 20 = 38",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 14 \u00f7 2?",
+    "answer": "7.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 90 + 17?",
+    "answer": "107",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 62 + 91?",
+    "answer": "153",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 7x + 3 = 59",
+    "answer": "8",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34% of 804?",
+    "answer": "273.36",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40 \u00f7 8?",
+    "answer": "5.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 6/10 to decimal",
+    "answer": "0.6",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 7 + 89?",
+    "answer": "96",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 79% of 968?",
+    "answer": "764.72",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 15 \u00d7 19?",
+    "answer": "285",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 55 - 26?",
+    "answer": "29",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 110 - 31?",
+    "answer": "79",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 8/9 to decimal",
+    "answer": "0.89",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 17 \u00d7 7?",
+    "answer": "119",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 16 \u00d7 2?",
+    "answer": "32",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 + 7?",
+    "answer": "13",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 80 - 4?",
+    "answer": "76",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 1x + 5 = 12",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 3/10 to decimal",
+    "answer": "0.3",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 3/5 to decimal",
+    "answer": "0.6",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/4 to decimal",
+    "answer": "0.5",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 23 + 95?",
+    "answer": "118",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 116 - 40?",
+    "answer": "76",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 11% of 677?",
+    "answer": "74.47",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 86 + 27?",
+    "answer": "113",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 48 + 92?",
+    "answer": "140",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 + 89?",
+    "answer": "105",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 10 + 58?",
+    "answer": "68",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 131 - 10?",
+    "answer": "121",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 \u00f7 2?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 1/8 to decimal",
+    "answer": "0.12",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 119 - 48?",
+    "answer": "71",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 79 - 10?",
+    "answer": "69",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 6 \u00d7 19?",
+    "answer": "114",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 4/9 to decimal",
+    "answer": "0.44",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 10x + 9 = 19",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 10 squared?",
+    "answer": "100",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 2x + 2 = 22",
+    "answer": "10",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 89 + 18?",
+    "answer": "107",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 11 \u00d7 3?",
+    "answer": "33",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 34 + 39?",
+    "answer": "73",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 8x + 7 = 47",
+    "answer": "5",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 91% of 320?",
+    "answer": "291.2",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 3x + 4 = 22",
+    "answer": "6",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 27 \u00f7 9?",
+    "answer": "3.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 1 \u00d7 19?",
+    "answer": "19",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 92% of 768?",
+    "answer": "706.56",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40% of 825?",
+    "answer": "330.0",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00d7 16?",
+    "answer": "112",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 94 + 71?",
+    "answer": "165",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 \u00d7 12?",
+    "answer": "84",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 9x + 5 = 14",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 63 \u00f7 7?",
+    "answer": "9.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 28 \u00f7 7?",
+    "answer": "4.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 63% of 918?",
+    "answer": "578.34",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 11 + 79?",
+    "answer": "90",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 4x + 16 = 32",
+    "answer": "4",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 \u00d7 6?",
+    "answer": "54",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 150 - 23?",
+    "answer": "127",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 18 \u00f7 9?",
+    "answer": "2.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 22 + 59?",
+    "answer": "81",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 \u00d7 13?",
+    "answer": "26",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 84% of 866?",
+    "answer": "727.44",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 69 - 15?",
+    "answer": "54",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 5 squared?",
+    "answer": "25",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 \u00f7 4?",
+    "answer": "1.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 16 \u00d7 1?",
+    "answer": "16",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/6 to decimal",
+    "answer": "0.33",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 2/5 to decimal",
+    "answer": "0.4",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 2 \u00d7 2?",
+    "answer": "4",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 2/7 to decimal",
+    "answer": "0.29",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 10x + 16 = 86",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 5/10 to decimal",
+    "answer": "0.5",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 132 - 15?",
+    "answer": "117",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 \u00d7 15?",
+    "answer": "45",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 83 + 11?",
+    "answer": "94",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 33% of 589?",
+    "answer": "194.37",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 24 \u00f7 3?",
+    "answer": "8.0",
+    "topic": "division",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 132 - 13?",
+    "answer": "119",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 8 squared?",
+    "answer": "64",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 6 squared?",
+    "answer": "36",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Solve for x: 6x + 14 = 56",
+    "answer": "7",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 squared?",
+    "answer": "49",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 19 \u00d7 10?",
+    "answer": "190",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 40 + 76?",
+    "answer": "116",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 51% of 112?",
+    "answer": "57.12",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 80 + 52?",
+    "answer": "132",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 16 \u00d7 6?",
+    "answer": "96",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 26 + 27?",
+    "answer": "53",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 2x + 2 = 20",
+    "answer": "9",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 9 squared?",
+    "answer": "81",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "Convert 5/7 to decimal",
+    "answer": "0.71",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 4 squared?",
+    "answer": "16",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 37 + 31?",
+    "answer": "68",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 14 + 59?",
+    "answer": "73",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 3 squared?",
+    "answer": "9",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 38% of 375?",
+    "answer": "142.5",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 75% of 771?",
+    "answer": "578.25",
+    "topic": "percentages",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 119 - 3?",
+    "answer": "116",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 70 + 75?",
+    "answer": "145",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 3x + 6 = 12",
+    "answer": "2",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 2 squared?",
+    "answer": "4",
+    "topic": "exponents",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 61 - 16?",
+    "answer": "45",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 7/9 to decimal",
+    "answer": "0.78",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 \u00d7 13?",
+    "answer": "260",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 48 + 31?",
+    "answer": "79",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 113 - 32?",
+    "answer": "81",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Solve for x: 7x + 19 = 26",
+    "answer": "1",
+    "topic": "algebra",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 3 \u00d7 9?",
+    "answer": "27",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 84 + 98?",
+    "answer": "182",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 20 \u00d7 8?",
+    "answer": "160",
+    "topic": "multiplication",
+    "difficulty": "medium"
+  },
+  {
+    "question": "What is 7 + 60?",
+    "answer": "67",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "Convert 9/10 to decimal",
+    "answer": "0.9",
+    "topic": "fractions",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 61 + 5?",
+    "answer": "66",
+    "topic": "addition",
+    "difficulty": "easy"
+  },
+  {
+    "question": "What is 77 - 45?",
+    "answer": "32",
+    "topic": "subtraction",
+    "difficulty": "easy"
+  }
+]
