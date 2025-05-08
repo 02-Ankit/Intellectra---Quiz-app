@@ -8,6 +8,14 @@ const questionSchema = new mongoose.Schema({
     answer: {
         type: String,
         required: true
+    },
+    topic:{
+        type: String,
+        required: true
+    },
+    difficulty: {
+        type: String,
+        required: true
     }
 },{
     timestamps: true

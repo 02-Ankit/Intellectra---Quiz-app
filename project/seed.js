@@ -26,7 +26,7 @@ function cleanAnswer(raw) {
 async function seedProblems() {
     try {
       const data = fs.readFileSync(filePath, 'utf-8');
-      const problems = JSON.parse(data); // now an array
+      const problems = JSON.parse(data); 
   
       for (const problem of problems) {
         problem.answer = cleanAnswer(problem.answer);
