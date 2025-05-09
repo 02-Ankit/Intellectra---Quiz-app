@@ -21,6 +21,6 @@ const questionSchema = new mongoose.Schema({
     timestamps: true
 });
 
-const Question = mongoose.model('Question',questionSchema);
+const Mathematics = mongoose.model('Mathematics',questionSchema);
 
-export default Question;
+export default Mathematics;

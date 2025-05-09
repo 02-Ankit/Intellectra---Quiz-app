@@ -4,7 +4,8 @@ import mongoose from 'mongoose';
 import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import Problem from './models/question.model.js'; 
+import Mathematics from './models/question.model.js';
+import Grade from './models/grade.model.js';
 import { connectDB } from './config/db.js';
 
 dotenv.config();
@@ -17,29 +18,36 @@ const __dirname = path.dirname(__filename);
 
 const filePath = path.join(__dirname, 'basicMath.json');
 
+const allowedTopics = ['Addition', 'Subtraction', 'Multiplication', 'Division'];
+const allowedDifficulties = ['Easy', 'Medium'];
 
-function cleanAnswer(raw) {
-  return raw.replace(/<<.*?>>/g, '');
+async function seedQuestions() {
+  try {
+    const filteredQuestions = await Mathematics.find({
+      topic: { $in: allowedTopics.map(topic => new RegExp(`^${topic}$`, 'i')) },
+      difficulty: { $in: allowedDifficulties.map(diff => new RegExp(`^${diff}$`, 'i')) }
+    });
+
+    const formattedQuestions = filteredQuestions.map(q => ({
+      grade: 'Elementary School',
+      subject: 'Math',
+      question: q.question,
+      answer: q.answer,
+      topic: q.topic.charAt(0).toUpperCase() + q.topic.slice(1).toLowerCase(), 
+      difficulty: q.difficulty.charAt(0).toUpperCase() + q.difficulty.slice(1).toLowerCase() 
+    }));
+    
+    await Grade.deleteMany({});
+    await Grade.insertMany(formattedQuestions);
+    console.log(`Migrated ${formattedQuestions.length} questions.`);
+  } catch (err) {
+    console.error('Migration failed:', err.message);
+  } finally {
+    mongoose.connection.close();
+  }
 }
 
+seedQuestions();
 
-async function seedProblems() {
-    try {
-      const data = fs.readFileSync(filePath, 'utf-8');
-      const problems = JSON.parse(data); 
-  
-      for (const problem of problems) {
-        problem.answer = cleanAnswer(problem.answer);
-        await Problem.create(problem);
-      }
-  
-      console.log('Seeding complete!');
-    } catch (err) {
-      console.error('Seeding error:', err.message);
-    } finally {
-      mongoose.connection.close();
-    }
-  }
-  
 
-seedProblems();
+

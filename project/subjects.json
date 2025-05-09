@@ -1,0 +1,19 @@
+[
+    {
+        "grade": "Elementary School",
+       "subject": ["Math","English"]
+    },
+    {
+        "grade": "Middle School",
+       "subject": ["Math","English"]
+    },
+    {
+        "grade": "High School",
+       "subject": ["Math","English"]
+    },
+    {
+        "grade": "College",
+       "subject": ["Math","English","DSA","CS Fundamentals"]
+    }
+
+]
