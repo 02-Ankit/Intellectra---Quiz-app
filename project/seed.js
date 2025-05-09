@@ -18,7 +18,7 @@ const __dirname = path.dirname(__filename);
 
 const filePath = path.join(__dirname, 'basicMath.json');
 
-const allowedTopics = ['Addition', 'Subtraction', 'Multiplication', 'Division'];
+const allowedTopics = ['algebra', 'exponents', 'fractions', 'percentages'];
 const allowedDifficulties = ['Easy', 'Medium'];
 
 async function seedQuestions() {
@@ -29,7 +29,7 @@ async function seedQuestions() {
     });
 
     const formattedQuestions = filteredQuestions.map(q => ({
-      grade: 'Elementary School',
+      grade: 'Middle School',
       subject: 'Math',
       question: q.question,
       answer: q.answer,
@@ -37,7 +37,7 @@ async function seedQuestions() {
       difficulty: q.difficulty.charAt(0).toUpperCase() + q.difficulty.slice(1).toLowerCase() 
     }));
     
-    await Grade.deleteMany({});
+
     await Grade.insertMany(formattedQuestions);
     console.log(`Migrated ${formattedQuestions.length} questions.`);
   } catch (err) {

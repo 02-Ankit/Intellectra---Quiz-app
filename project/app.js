@@ -12,9 +12,6 @@ import quizRoutes from './routes/quiz.routes.js';
 // git commit -m "Add quiz routes and grade model with filtered question logic"
 // git push origin main --force
 
-
-
-
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 

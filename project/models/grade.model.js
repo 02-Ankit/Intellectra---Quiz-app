@@ -21,6 +21,7 @@ const gradeSchema = new mongoose.Schema({
     },
     topic: {
       type: String
+      
     },
     difficulty: {
       type: String,

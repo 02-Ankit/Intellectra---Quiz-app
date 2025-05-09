@@ -5,15 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Test</title>
+    <style> 
+        .user{
+            background-color: orange;
+        }
+    </style>
 </head>
 
 <body>
-    <p>Selected Grade: <%= grade %>
-    </p>
-    <p>Subject: <%= subject %>
-    </p>
-    <p>Difficulty: <%= difficulty %>
-    </p>
+    <div class="user">
+        <p>Selected Grade: <%= grade %>
+        </p>
+        <p>Subject: <%= subject %>
+        </p>
+        <p>Difficulty: <%= difficulty %>
+        </p>
+    </div>
+    
+
 
     <% if(q){ %>
         <div>
@@ -23,8 +32,10 @@
             <p>Answer: <%= q.answer %>
             </p>
             <p>
-                <%= q.difficulty %>
+                <p>Difficulty: <%= q.difficulty %>
+                </p>
             </p>
+            <p>Topic: <%= q.topic %></p>
         </div>
         <% }else{ %>
             <div>
