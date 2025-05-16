@@ -24,6 +24,12 @@ app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views')); 
 
 app.use(express.urlencoded({ extended: true })); 
+
+// Root route
+app.get('/', (req, res) => {
+  res.redirect('/quiz');
+});
+
 app.use('/quiz', quizRoutes);
 
 app.listen(3000, () => {

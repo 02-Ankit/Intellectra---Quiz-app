@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Question</title>
+  <style>
+    body {
+      background-color: #0c101a;
+      font-family: Arial, sans-serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .card {
+      background-color: #2d3b55;
+      border-radius: 20px;
+      padding: 20px;
+      width: 400px;
+    }
+
+    .difficulty {
+      background-color: #e3e142;
+      color: black;
+      font-weight: bold;
+      padding: 5px 15px;
+      border-radius: 20px;
+      display: inline-block;
+      margin-bottom: 15px;
+    }
+
+    .question {
+      background-color: #4a5d78;
+      padding: 15px;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+
+    .option {
+      background-color: #607293;
+      padding: 10px;
+      margin: 10px 0;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: background-color 0.2s;
+      border: none;
+      width: 100%;
+      color: white;
+      text-align: left;
+      position: relative;
+      font-size: 16px;
+    }
+
+    .option.correct {
+      background-color: #3ce66b !important;
+      color: #1a2b1a;
+      font-weight: bold;
+    }
+
+    .option.incorrect {
+      background-color: #e44141 !important;
+      color: #fff;
+      font-weight: bold;
+    }
+
+    .option:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+
+    .actions {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .btn {
+      padding: 12px 20px;
+      border: none;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    .check-btn {
+      background-color: #3ce66b;
+      color: black;
+    }
+
+    .skip-btn {
+      background-color: #e44141;
+      color: white;
+    }
+
+    .feedback {
+      margin-top: 20px;
+      font-size: 20px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .feedback.correct { color: #4CAF50; }
+    .feedback.incorrect { color: #FF6B6B; }
+  </style>
+</head>
+<body>
+  <form action="/quiz/submit" method="POST">
+    <div class="container">
+      <div class="card">
+        <div class="difficulty"><%= difficulty %></div>
+        <div class="question">
+          <%= question %>
+        </div>
+        <% options.forEach((option, index) => { 
+          let optionClass = '';
+          if (typeof selected !== 'undefined') {
+            if (option === selected && selected === answer) {
+              optionClass = 'correct';
+            } else if (option === selected && selected !== answer) {
+              optionClass = 'incorrect';
+            }
+          }
+        %>
+          <button class="option <%= optionClass %>" type="submit" name="selected" value="<%= option %>" <%= typeof selected !== 'undefined' ? 'disabled' : '' %>>
+            <%= option %>
+          </button>
+        <% }); %>
+        <% if (typeof feedback !== 'undefined') { %>
+          <div class="feedback <%= feedback.isCorrect ? 'correct' : 'incorrect' %>"><%= feedback.message %></div>
+        <% } %>
+      </div>
+      <div class="actions">
+        <% if (typeof selected === 'undefined') { %>
+          <button class="btn check-btn" type="submit" name="action" value="check">Check</button>
+          <button class="btn skip-btn" type="submit" name="action" value="skip">Skip</button>
+        <% } %>
+      </div>
+    </div>
+    <input type="hidden" name="correct" value="<%= answer %>">
+    <input type="hidden" name="question" value="<%= question %>">
+    <input type="hidden" name="options" value='<%= JSON.stringify(options) %>'>
+    <input type="hidden" name="difficulty" value="<%= difficulty %>">
+  </form>
+</body>
+</html>

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Results</title>
+  <style>
+    body {
+      background-color: #0c101a;
+      font-family: Arial, sans-serif;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+    .results-container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: #232b3a;
+      border-radius: 20px;
+      padding: 30px 30px 40px 30px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.2);
+    }
+    .result-block {
+      margin-bottom: 30px;
+      padding-bottom: 18px;
+      border-bottom: 1px solid #3a4256;
+    }
+    .result-block:last-child {
+      border-bottom: none;
+    }
+    .difficulty {
+      background-color: #b4a95a;
+      color: #44432d;
+      font-weight: 500;
+      padding: 4px 14px;
+      border-radius: 20px;
+      display: inline-block;
+      margin-bottom: 14px;
+      font-size: 14px;
+      box-shadow: none;
+      opacity: 1;
+    }
+    .question {
+      background-color: #4a5d78;
+      padding: 12px;
+      border-radius: 10px;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+    .your-answer {
+      font-size: 16px;
+      margin-bottom: 6px;
+    }
+    .correct {
+      color: #4CAF50;
+      font-weight: bold;
+    }
+    .incorrect {
+      color: #FF6B6B;
+      font-weight: bold;
+    }
+    .correct-answer {
+      color: #e3e142;
+      font-weight: bold;
+      margin-left: 10px;
+    }
+    .summary {
+      font-size: 2.1em;
+      font-weight: 700;
+      margin-bottom: 32px;
+      text-align: center;
+      color: #ffe066;
+      letter-spacing: 0.5px;
+      text-shadow: 0 2px 8px rgba(60,230,107,0.10), 0 1px 0 #232b3a;
+    }
+    .back-btn {
+      display: block;
+      margin: 30px auto 0 auto;
+      background-color: #748CAB;
+      color: white;
+      border: none;
+      border-radius: 25px;
+      padding: 12px 25px;
+      font-size: 18px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+      text-align: center;
+      width: 200px;
+    }
+    .back-btn:hover {
+      opacity: 0.9;
+      transform: scale(1.05);
+    }
+    .no-answer {
+      color: #FFA500;
+      font-weight: bold;
+    }
+    .option-label.selected {
+      color: #888383;
+      border-color: #3bf871;                  
+      font-weight: 700;
+      transform: scale(1.045);
+      box-shadow: 0 0 0 3px #3ce66b33, 0 6px 24px 0 rgba(60,230,107,0.18);
+      z-index: 1;
+    }
+  </style>
+</head>
+<body>
+  <div class="results-container">
+    <div class="summary">
+      You got <%= results.filter(r => r.isCorrect).length %> out of <%= results.length %> correct!
+    </div>
+    <div class="difficulty">
+      Difficulty: <%= results[0].difficulty %>
+    </div>
+    <% results.forEach((r, idx) => { %>
+      <div class="result-block">
+        <div class="question"><%= r.question %></div>
+        <div class="your-answer <%= r.isCorrect ? 'correct' : (r.userAnswer ? 'incorrect' : 'no-answer') %>">
+          Your answer: <%= r.userAnswer ? r.userAnswer : 'Not attempted!' %>
+        </div>
+        <% if (!r.isCorrect) { %>
+          <div class="correct-answer">Correct answer: <%= r.correct %></div>
+        <% } %>
+      </div>
+    <% }); %>
+    <a href="/quiz" class="back-btn">Back to Quiz</a>
+  </div>
+</body>
+</html> 

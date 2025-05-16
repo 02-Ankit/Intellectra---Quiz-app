@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz</title>
+  <style>
+    body {
+      background-color: #0c101a;
+      font-family: 'Inter', 'Roboto', system-ui, sans-serif;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+    .quiz-container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: linear-gradient(135deg, #181c24 60%, #232b3a 100%);
+      border-radius: 20px;
+      padding: 30px 30px 40px 30px;
+      box-shadow: 0 8px 32px 0 rgba(0,0,0,0.18), 0 1.5px 6px 0 rgba(60,230,107,0.04);
+      overflow-y: auto;
+      max-height: 90vh;
+    }
+    .question-block {
+      margin-bottom: 40px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #232733;
+      position: relative;
+    }
+    .progress {
+      position: absolute;
+      top: -32px;
+      left: 0;
+      font-size: 15px;
+      color: #8fa2c7;
+      font-weight: 500;
+    }
+    .question-block:last-child {
+      border-bottom: none;
+    }
+    .question {
+      background-color: #232b3a;
+      padding: 12px;
+      border-radius: 10px;
+      margin-bottom: 18px;
+      font-size: 22px;
+      font-weight: 600;
+    }
+    .options {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .option-label {
+      background-color: #232b3a;
+      border-radius: 10px;
+      padding: 16px 20px;
+      cursor: pointer;
+      transition: background 0.2s, box-shadow 0.2s, transform 0.18s cubic-bezier(.4,2,.6,1);
+      font-size: 18px;
+      margin-bottom: 0;
+      display: flex;
+      align-items: center;
+      border: 1.5px solid #232733;
+      position: relative;
+      box-shadow: 0 2px 8px 0 rgba(60,230,107,0.06);
+    }
+    .option-label:hover {
+      background-color: #232733;
+      box-shadow: 0 4px 16px 0 rgba(60,230,107,0.10);
+    }
+    .option-label.selected {
+      background: #232733 !important;
+      color: #fff;
+      border-color: #3a4256;
+      font-weight: 600;
+      transform: scale(1.03);
+      box-shadow: 0 2px 8px 0 rgba(60,230,107,0.10);
+    }
+    .option-label input[type="radio"] {
+      margin-right: 18px;
+      accent-color: #3ce66b;
+      width: 24px;
+      height: 24px;
+      min-width: 24px;
+      min-height: 24px;
+      transform: scale(1.4);
+      cursor: pointer;
+    }
+    .submit-btn {
+      display: block;
+      margin: 30px auto 0 auto;
+      background-color: #3ce66b;
+      color: #181c24;
+      font-weight: bold;
+      border: none;
+      border-radius: 10px;
+      padding: 15px 40px;
+      font-size: 20px;
+      cursor: pointer;
+      transition: background 0.2s;
+      box-shadow: 0 2px 8px 0 rgba(60,230,107,0.10);
+    }
+    .submit-btn:hover {
+      background-color: #2ebd5f;
+      box-shadow: 0 4px 16px 0 rgba(60,230,107,0.18);
+    }
+    @media (max-width: 600px) {
+      .quiz-container {
+        padding: 10px 2px 20px 2px;
+        max-width: 100vw;
+      }
+      .question {
+        font-size: 18px;
+      }
+      .option-label {
+        font-size: 15px;
+        padding: 12px 8px;
+      }
+      .submit-btn {
+        font-size: 16px;
+        padding: 10px 20px;
+      }
+    }
+    .clock-timer-container {
+      display: flex;
+      justify-content: flex-end;
+      margin-bottom: 18px;
+    }
+    .clock-timer {
+      display: block;
+    }
+    .clock-bg {
+      fill: none;
+      stroke: #232733;
+      stroke-width: 6;
+    }
+    .clock-fg {
+      fill: none;
+      stroke: #3ce66b;
+      stroke-width: 6;
+      stroke-linecap: round;
+      transform: rotate(-90deg);
+      transform-origin: 50% 50%;
+      transition: stroke-dashoffset 1s linear;
+    }
+  </style>
+</head>
+<body>
+  <form action="/quiz/submit-all" method="POST" onsubmit="return confirm('Are you sure you want to submit your answers?');">
+    <div class="quiz-container">
+      <div class="clock-timer-container">
+        <svg class="clock-timer" width="60" height="60">
+          <circle class="clock-bg" cx="30" cy="30" r="26" />
+          <circle class="clock-fg" cx="30" cy="30" r="26" />
+          <text x="50%" y="54%" text-anchor="middle" fill="#ffe066" font-size="18" font-family="Inter,Roboto,system-ui,sans-serif" dy=".3em" id="clock-timer-label">2:00</text>
+        </svg>
+      </div>
+      <% questions.forEach((q, idx) => { %>
+        <div class="question-block">
+          <div class="progress">Question <%= idx + 1 %> of <%= questions.length %></div>
+          <div class="question"><%= q.question %></div>
+          <div class="options">
+            <% q.options.forEach(option => { %>
+              <label class="option-label">
+                <input type="radio" name="answers[q<%= idx %>]" value="<%= option %>" aria-label="Answer <%= option %> for question <%= idx + 1 %>" onclick="highlightSelected(this)">
+                <%= option %>
+              </label>
+            <% }); %>
+          </div>
+        </div>
+      <% }); %>
+      <input type="hidden" name="questions" value='<%= JSON.stringify(questions) %>'>
+      <button class="submit-btn" type="submit">Submit</button>
+    </div>
+  </form>
+  <script>
+
+    // Highlit selected option
+    function highlightSelected(radio) {
+      const group = radio.name;
+      const labels = document.querySelectorAll('input[name="' + group + '"]');
+      labels.forEach(input => {
+        input.parentElement.classList.remove('selected');
+      });
+      radio.parentElement.classList.add('selected');
+    }
+
+    //timer
+    let duration = 120;
+    let timeLeft = duration;
+    const timerLabel = document.getElementById('clock-timer-label');
+    const fg = document.querySelector('.clock-fg');
+    const radius = 26;
+    const circumference = 2 * Math.PI * radius;
+    fg.style.strokeDasharray = circumference;
+    fg.style.strokeDashoffset = 0;
+
+    function updateClockTimer() {
+      let minutes = Math.floor(timeLeft / 60);
+      let seconds = timeLeft % 60;
+      timerLabel.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+      const offset = circumference * (1 - timeLeft / duration);
+      fg.style.strokeDashoffset = offset;
+    }
+
+    updateClockTimer();
+    let interval = setInterval(function() {
+      timeLeft--;
+      updateClockTimer();
+      if (timeLeft <= 0) {
+        clearInterval(interval);
+        document.querySelector('form').submit();
+      }
+    }, 1000);
+  </script>
+</body>
+</html> 
